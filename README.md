@@ -28,9 +28,9 @@ Approach
 
 
 Project Group Members
-S.NO.	ROLL NO.	STUDENT NAME
-1.	2420030504	Vikas Suthar
-2.	2420030446	Prakash
-3.	2420030486	Kasam Vamshi
-4.	2420030791	Om Pandey
+S.NO. 	ROLL NO.	 STUDENT NAME
+1.	   2420030504	  Vikas Suthar
+2.	   2420030446	   Prakash
+3.	    2420030486	   Kasam Vamshi
+4.	    2420030791	   Om Pandey
 
